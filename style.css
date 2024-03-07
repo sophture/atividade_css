@@ -1,0 +1,32 @@
+.div1 {
+    background-color: #48977a;
+    width: 350px;
+    height: 530px;
+}
+
+.div2 {
+    background-color: #d4ff7f;
+    width: 15%;
+    height: 35%;
+}
+
+.paragrafo {
+    color: rgb(248, 63, 168);
+    font-size: 45px;
+    background-color: rgb(55, 107, 116);
+    font-family: sans-serif;
+    font-weight: lighter;
+}
+
+.div3 {
+    width: 40%;
+    height: 80vh;
+    background-color: rgb(0, 191, 255);
+}
+
+.div4 {
+    width: 90vw;
+    height: 45%;
+    background-color: rgb(111, 165, 141);
+
+}
